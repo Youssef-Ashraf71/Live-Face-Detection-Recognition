@@ -70,7 +70,7 @@ main
 
 #### Face Detection
 
-![Face Detection](Demo/face-detection.png)
+![Face Detection](demo/face-detection.png)
 
 #### Offline Face Recgonition
 
@@ -84,7 +84,7 @@ main
 
 #### Live Face Detection and Recognition
 
-![live recognition](Demo/live-detection.png)
+![live recognition](demo/live-detection.png)
 
 ---
 
